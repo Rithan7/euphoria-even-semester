@@ -9,15 +9,10 @@ Welcome to the official web portal for **EUPHORIA '26**, the premier even-semest
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Live Website
 
-🌐 **Live Website Link:**  
+🔗 **Visit the Live Site:**  
 👉 **[https://rithan7.github.io/euphoria-even-semester/](https://rithan7.github.io/euphoria-even-semester/)**
-
-> **Note to Maintainer**: To make the live link active, ensure **GitHub Pages** is enabled on the repository:
-> 1. Go to repository **Settings** → **Pages**.
-> 2. Under **Build and deployment** → **Source**, select **Deploy from a branch**.
-> 3. Choose branch `main` and folder `/ (root)` and click **Save**.
 
 ---
 
@@ -44,7 +39,7 @@ EUPHORIA/
 
 ---
 
-## 🛠️ Local Development & Quick Start
+## 🛠️ Local Setup
 
 1. **Clone the Repository:**
    ```bash
@@ -53,21 +48,4 @@ EUPHORIA/
    ```
 
 2. **Run Locally:**
-   - Open `index.html` in any web browser (Double click or use VS Code Live Server / `npx serve`).
-
----
-
-## 🤝 Contributing
-
-Contributions, feedback, and feature suggestions are welcome!
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+   - Open `index.html` in any web browser.
